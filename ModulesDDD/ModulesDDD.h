@@ -1,0 +1,6 @@
+#ifndef MODULESDDD_H_INCLUDED
+#define MODULESDDD_H_INCLUDED
+
+void SampleFunction1();
+
+#endif // MODULESDDD_H_INCLUDED

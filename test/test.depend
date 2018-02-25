@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1494347073 source:e:\proba\test\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<fstream>
+	<ctime>
+	<windows.h>
+
